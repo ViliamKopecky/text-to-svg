@@ -8,12 +8,6 @@ env:
   mocha   : true
   es6     : true
 
-ecmaFeatures:
-  globalReturn     : true
-  impliedStrict    : true
-  jsx              : true
-  experimentalObjectRestSpread : true
-
 parserOptions:
   ecmaVersion: 6
   sourceType: "module"
